@@ -14,7 +14,7 @@ Before you start, make sure you have the following installed on your system:
 1. **Clone this repository**
    ```bash
    git clone https://github.com/anasbouteffah/n8n
-   cd n8n-docker-setup
+   cd n8n
    ```
 
 2. **Start n8n**
