@@ -166,4 +166,3 @@ Feel free to submit issues and enhancement requests!
 
 **Happy Automating! 🎉**
 
-For more tutorials and setups, check out our [YouTube Channel](your-youtube-channel-link).
