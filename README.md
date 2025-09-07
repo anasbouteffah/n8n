@@ -13,7 +13,7 @@ Before you start, make sure you have the following installed on your system:
 
 1. **Clone this repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/anasbouteffah/n8n
    cd n8n-docker-setup
    ```
 
